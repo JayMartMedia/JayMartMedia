@@ -52,4 +52,4 @@ A React and Springboot application which allows users to view, add, edit, and de
 [Backend](https://github.com/JayMartMedia/patient-service)
 
 ![Language: Java](https://badgen.net/badge/Language/Java/5382a1)
-![Framework: Spring](https://badgen.net/badge/Language/Spring/6DB33F)
+![Framework: Spring](https://badgen.net/badge/Framework/Spring/6DB33F)
