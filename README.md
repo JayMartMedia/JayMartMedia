@@ -27,6 +27,9 @@ A word tile based game built with Angular. Built due to inspiration from other t
 A simple HTTP api written in Go which allows users to view, add, update, and delete albums from an in-memory store. Built so that I could get some hands-on experiance with Go.
 
 ## [Guide Demo](https://github.com/JayMartMedia/GuideDemo)
+
+https://guide-demo-jaymartmedia.vercel.app/ - *Deployed on Vercel and Heroku*
+
 A demo app to list and filter climbing guides. Built to show React and css proficiency.
 
 Frontend
