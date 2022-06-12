@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Check out some of my example projects
+# Check out My Projects!
 
 ## [24 Letters](https://github.com/JayMartMedia/24-letters-ng)
 ![Language: TypeScript](https://badgen.net/badge/Language/TypeScript/3178c6)
