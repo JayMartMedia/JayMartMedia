@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 # Check out My Projects!
 
-## [24 Letters](https://github.com/JayMartMedia/24-letters-ng)
+<!-- ## [24 Letters](https://github.com/JayMartMedia/24-letters-ng)
 ![Language: TypeScript](https://badgen.net/badge/Language/TypeScript/3178c6)
 ![Framework: Angular](https://badgen.net/badge/Framework/Angular/df2e31)
 
-A word tile based game built with Angular. Built due to inspiration from other tile/card/word games. Tech stack chosen so that I could get some hands-on experiance with Angular, and get more comfortable with TypeScript.
+A word tile based game built with Angular. Built due to inspiration from other tile/card/word games. Tech stack chosen so that I could get some hands-on experiance with Angular, and get more comfortable with TypeScript. -->
 
 ## [Basic Go HTTP Server](https://github.com/JayMartMedia/basic-webserver-go)
 ![Language: Go](https://badgen.net/badge/Language/Go/79D4FD)
