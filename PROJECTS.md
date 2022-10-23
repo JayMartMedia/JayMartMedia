@@ -29,6 +29,8 @@ A word tile based game built with Angular. Built due to inspiration from other t
 ![Runtime: Node](https://badgen.net/badge/Runtime/Node/339933)
 ![Language: TypeScript](https://badgen.net/badge/Language/TypeScript/3178c6)
 
+https://friend-finder-app-jaymartmedia.vercel.app/ - Hosted on Vercel and Heroku
+
 A simple way to locate your friends when meeting up
 
 ## [Basic Go HTTP Server](https://github.com/JayMartMedia/basic-webserver-go)
