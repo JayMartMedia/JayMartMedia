@@ -18,3 +18,10 @@ Relatively simple to use cloud service that can scale down to really slim
 
 Reusable component based web framework that allows you to use components written in multiple frontend frameworks. Blocks communicate with each other using browser events.
 
+## Passport.js
+
+JS authentication library which supports many different sign in providers
+
+## Kubernetes
+
+Container orchestration tool used for things like container lifecycle management, scaling, and more.
