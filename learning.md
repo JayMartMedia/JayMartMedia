@@ -25,3 +25,8 @@ JS authentication library which supports many different sign in providers
 ## Kubernetes
 
 Container orchestration tool used for things like container lifecycle management, scaling, and more.
+
+## Kafka / RabbitMQ
+
+Get a better understanding of event queues and how they can be used in a micro service architecture
+ 
