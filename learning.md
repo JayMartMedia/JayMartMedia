@@ -30,3 +30,6 @@ Container orchestration tool used for things like container lifecycle management
 
 Get a better understanding of event queues and how they can be used in a micro service architecture
  
+## Capacitor
+
+A wrapper for building mobile apps out of the web stack
