@@ -33,3 +33,8 @@ Get a better understanding of event queues and how they can be used in a micro s
 ## Capacitor
 
 A wrapper for building mobile apps out of the web stack
+
+## Assembly/Assembler
+
+To get a better understanding on how the computer works at a low level
+
