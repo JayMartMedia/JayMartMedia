@@ -38,3 +38,4 @@ A wrapper for building mobile apps out of the web stack
 
 To get a better understanding on how the computer works at a low level
 
+https://www.tutorialspoint.com/assembly_programming/index.htm
