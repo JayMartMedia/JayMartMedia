@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ## 24 Letters
 ![Language: TypeScript](https://badgen.net/badge/Language/TypeScript/3178c6)
 ![Framework: Angular](https://badgen.net/badge/Framework/Angular/df2e31)
+![Framework: DOTNET](https://badgen.net/badge/Framework/.NET/512BD4)
+![Database: MySQL](https://badgen.net/badge/Database/MySQL/f29111)
 
 https://24letters.jaymartmedia.com/ - *Deployed on Vercel and Heroku*
 
@@ -28,8 +30,9 @@ A word tile based game built with Angular. Built due to inspiration from other t
 ![Library: React](https://badgen.net/badge/Library/React/61DAFB)
 ![Runtime: Node](https://badgen.net/badge/Runtime/Node/339933)
 ![Language: TypeScript](https://badgen.net/badge/Language/TypeScript/3178c6)
+![Database: MongoDB](https://badgen.net/badge/Database/MongoDB/00684a)
 
-https://friend-finder-app-jaymartmedia.vercel.app/ - Hosted on Vercel and Heroku
+https://friendfinder.jaymartmedia.com/ - Hosted on Vercel and Heroku
 
 A simple way to locate your friends when meeting up
 
